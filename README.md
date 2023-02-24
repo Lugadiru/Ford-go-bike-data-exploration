@@ -4,7 +4,7 @@
 
 ## fordgo bike
 
- Its information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. ford go bike has 183412 rows and 16 columns this are 16 variables they include:
+ Its information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. Ford go bike has 183412 rows and 16 columns this are 16 variables, they include:
     duration_sec               
     start_time                
     end_time                  
@@ -24,7 +24,7 @@
 
 ## Summary of Findings
 
- Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+
 When I related age with number of users I found out that bike users are concentrated betwen the ages 25-45 years old.
 When I related users with user type I found out that the number of subscriber user type is  more than that of customers.
 When I related number of users with gender I found out that the number of males users is more than females and other.
