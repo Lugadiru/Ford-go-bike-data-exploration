@@ -4,7 +4,7 @@
 
 ## fordgo bike
 
- Its about information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. ford go bike has 183412 rows and 16 columns this are 16 variables they include:
+ Its information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. ford go bike has 183412 rows and 16 columns this are 16 variables they include:
     duration_sec               
     start_time                
     end_time                  
